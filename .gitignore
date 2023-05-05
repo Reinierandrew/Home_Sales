@@ -152,3 +152,5 @@ cython_debug/
 #.idea/
 Starter_Code-2/Home_Sales_starter_code.ipynb
 Starter_Code-2/Home_Sales_starter_code_colab.ipynb
+.idea/modules.xml
+*.iml
